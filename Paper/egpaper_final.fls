@@ -1,0 +1,282 @@
+PWD d:\CSCE 421\Paper
+INPUT C:\Users\Angelo\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\CSCE 421\Paper\egpaper_final.tex
+OUTPUT d:\CSCE 421\Paper\egpaper_final.log
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\base\fix-cm.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\base\fix-cm.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrbase.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrlfile.sty
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT d:\CSCE 421\Paper\cvpr.sty
+INPUT d:\CSCE 421\Paper\cvpr.sty
+INPUT d:\CSCE 421\Paper\eso-pic.sty
+INPUT d:\CSCE 421\Paper\eso-pic.sty
+INPUT d:\CSCE 421\Paper\cvpr_eso.sty
+INPUT d:\CSCE 421\Paper\cvpr_eso.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmb.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\psnfss\times.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\psnfss\times.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\subfig\subfig.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\subfig\subfig.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\kvoptions\kvoptions.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\etexcmds\etexcmds.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\bitset\bitset.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\bitset\bitset.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\atbegshi\atbegshi.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT d:\CSCE 421\Paper\egpaper_final.aux
+INPUT d:\CSCE 421\Paper\egpaper_final.aux
+OUTPUT d:\CSCE 421\Paper\egpaper_final.aux
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT D:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\refcount\refcount.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\refcount\refcount.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\generic\gettitlestring\gettitlestring.sty
+OUTPUT d:\CSCE 421\Paper\egpaper_final.pdf
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT D:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\psnfss\ot1pcr.fd
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\tex\latex\psnfss\ot1pcr.fd
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrr7t.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrr7t.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\Angelo\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\courier\pcrr7t.vf
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrr8r.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT images\preprocessing-pipeline.png
+INPUT .\images\preprocessing-pipeline.png
+INPUT .\images\preprocessing-pipeline.png
+INPUT .\images\preprocessing-pipeline.png
+INPUT .\images\preprocessing-pipeline.png
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr5.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi5.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy5.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\times\ptmb.vf
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT images\before.png
+INPUT .\images\before.png
+INPUT .\images\before.png
+INPUT .\images\before.png
+INPUT .\images\before.png
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT images\after.png
+INPUT .\images\after.png
+INPUT .\images\after.png
+INPUT .\images\after.png
+INPUT .\images\after.png
+INPUT images\Classification-Pipeline.png
+INPUT .\images\Classification-Pipeline.png
+INPUT .\images\Classification-Pipeline.png
+INPUT .\images\Classification-Pipeline.png
+INPUT .\images\Classification-Pipeline.png
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT images\example-data.png
+INPUT .\images\example-data.png
+INPUT .\images\example-data.png
+INPUT .\images\example-data.png
+INPUT .\images\example-data.png
+INPUT images\power-spectrum.png
+INPUT .\images\power-spectrum.png
+INPUT .\images\power-spectrum.png
+INPUT .\images\power-spectrum.png
+INPUT .\images\power-spectrum.png
+INPUT images\multiclass-power-spectrum.png
+INPUT .\images\multiclass-power-spectrum.png
+INPUT .\images\multiclass-power-spectrum.png
+INPUT .\images\multiclass-power-spectrum.png
+INPUT .\images\multiclass-power-spectrum.png
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT d:\CSCE 421\Paper\egpaper_final.bbl
+INPUT d:\CSCE 421\Paper\egpaper_final.bbl
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT d:\CSCE 421\Paper\egpaper_final.aux
+INPUT D:\Program Files\MiKTeX 2.9\fonts\enc\dvips\base\8r.enc
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy5.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy5.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\urw\courier\ucrr8a.pfb
+INPUT D:\Program Files\MiKTeX 2.9\fonts\type1\urw\courier\ucrr8a.pfb
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\type1\urw\times\utmri8a.pfb
+INPUT C:\Users\Angelo\AppData\Roaming\MiKTeX\2.9\fonts\type1\urw\times\utmri8a.pfb
