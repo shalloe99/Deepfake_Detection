@@ -1,4 +1,4 @@
-# CSCE 421 Final Project by Rengang Yang and Zenxiaoran Kang
+# Deepfake Detection with Ensemble Learning Methods by Rengang Yang and Zenxiaoran Kang
 
 For obvious reasons we are not allowed to include the raw data or the scripts
 to download the data in this repository. The scripts were not written by us and
